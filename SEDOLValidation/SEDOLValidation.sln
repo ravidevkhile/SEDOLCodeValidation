@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SEDOLValidation.Test", "SEDOLValidation.Test\SEDOLValidation.Test.csproj", "{201D382C-57AE-4B45-A84E-9A751105C1A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDOLValidation", "SEDOLValidation\SEDOLValidation.csproj", "{88A26D42-422D-4E5A-8652-655C91DA2F95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{201D382C-57AE-4B45-A84E-9A751105C1A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201D382C-57AE-4B45-A84E-9A751105C1A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201D382C-57AE-4B45-A84E-9A751105C1A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201D382C-57AE-4B45-A84E-9A751105C1A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A26D42-422D-4E5A-8652-655C91DA2F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A26D42-422D-4E5A-8652-655C91DA2F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A26D42-422D-4E5A-8652-655C91DA2F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A26D42-422D-4E5A-8652-655C91DA2F95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {966F92A3-B686-4080-BA1A-44163ADFA9EC}
+	EndGlobalSection
+EndGlobal

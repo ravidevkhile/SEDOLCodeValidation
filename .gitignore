@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SEDOLValidation/.vs/SEDOLValidation
+/SEDOLValidation/SEDOLValidation/bin/Debug/net5.0
+/SEDOLValidation/SEDOLValidation/obj
+/SEDOLValidation/SEDOLValidation.Test/bin/Debug/net5.0
+/SEDOLValidation/SEDOLValidation.Test/obj
